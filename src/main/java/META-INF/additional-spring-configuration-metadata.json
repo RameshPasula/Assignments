@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "log4j.appender.FILE",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.appender.FILE'"
+  },
+  {
+    "name": "log4j.rootLogger",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.rootLogger'"
+  },
+  {
+    "name": "log4j.appender.FILE.File",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.appender.FILE.File'"
+  },
+  {
+    "name": "Email",
+    "type": "java.lang.String",
+    "description": "A description for 'Email'"
+  },
+  {
+    "name": "NotNull",
+    "type": "java.lang.String",
+    "description": "A description for 'NotNull'"
+  },
+  {
+    "name": "NotEmpty",
+    "type": "java.lang.String",
+    "description": "A description for 'NotEmpty'"
+  }
+]}
